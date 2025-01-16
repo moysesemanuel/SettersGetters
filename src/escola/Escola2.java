@@ -1,5 +1,5 @@
 package escola;
-
+//Seguindo convenção Java Beans
 public class Escola2 {
     public static void main(String[] args) {
         Aluno2 felipe = new Aluno2();
